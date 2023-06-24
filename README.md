@@ -11,3 +11,4 @@
   - [标签 Labels](./kubernetes-标签.md)
   - [注解 Annotations](./kubernetes-注解.md)
   - [命名空间 Namespaces](./kubernetes-命名空间.md)
+  - [标签选择器 Label Selectors](./kubernetes-标签选择器.md)
